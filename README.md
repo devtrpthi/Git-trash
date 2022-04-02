@@ -1,2 +1,2 @@
 # Git-trash
-Just a random readme file. Nothing for you
+This is going to be a long walk.
