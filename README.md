@@ -1,2 +1,2 @@
 # Git-trash
-Hi world
+This is going to be a long walk.
