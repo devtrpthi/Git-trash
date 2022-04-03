@@ -1,2 +1,2 @@
 # Git-trash
-This is going to be a long walk.
+A dummy repo to practice my github skills. Nothing much
